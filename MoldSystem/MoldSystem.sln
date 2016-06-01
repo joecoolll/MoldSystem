@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoldSystem", "MoldSystem\MoldSystem.csproj", "{08D1BF9B-CDF5-4E25-AB26-FC9D0984CA57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{4D416200-AE34-4DEA-BBD5-3FF41265C2D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BussinessObject", "BussinessObject\BussinessObject.csproj", "{D7AD464B-5513-4494-BE7B-361AEBC666B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BussinessLogic", "BussinessLogic\BussinessLogic.csproj", "{DC950C4D-5388-40C3-A495-2B7EC42E7251}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{789C099C-EE9C-45D7-92E7-DED4BF3DE37B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08D1BF9B-CDF5-4E25-AB26-FC9D0984CA57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08D1BF9B-CDF5-4E25-AB26-FC9D0984CA57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08D1BF9B-CDF5-4E25-AB26-FC9D0984CA57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08D1BF9B-CDF5-4E25-AB26-FC9D0984CA57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D416200-AE34-4DEA-BBD5-3FF41265C2D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D416200-AE34-4DEA-BBD5-3FF41265C2D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D416200-AE34-4DEA-BBD5-3FF41265C2D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D416200-AE34-4DEA-BBD5-3FF41265C2D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7AD464B-5513-4494-BE7B-361AEBC666B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7AD464B-5513-4494-BE7B-361AEBC666B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7AD464B-5513-4494-BE7B-361AEBC666B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7AD464B-5513-4494-BE7B-361AEBC666B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC950C4D-5388-40C3-A495-2B7EC42E7251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC950C4D-5388-40C3-A495-2B7EC42E7251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC950C4D-5388-40C3-A495-2B7EC42E7251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC950C4D-5388-40C3-A495-2B7EC42E7251}.Release|Any CPU.Build.0 = Release|Any CPU
+		{789C099C-EE9C-45D7-92E7-DED4BF3DE37B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{789C099C-EE9C-45D7-92E7-DED4BF3DE37B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{789C099C-EE9C-45D7-92E7-DED4BF3DE37B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{789C099C-EE9C-45D7-92E7-DED4BF3DE37B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://iatech2.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BussinessLogic\\BussinessLogic.csproj
+		SccProjectName1 = BussinessLogic
+		SccLocalPath1 = BussinessLogic
+		SccProjectUniqueName2 = BussinessObject\\BussinessObject.csproj
+		SccProjectName2 = BussinessObject
+		SccLocalPath2 = BussinessObject
+		SccProjectUniqueName3 = Common\\Common.csproj
+		SccProjectName3 = Common
+		SccLocalPath3 = Common
+		SccProjectUniqueName4 = DataAccess\\DataAccess.csproj
+		SccProjectName4 = DataAccess
+		SccLocalPath4 = DataAccess
+		SccProjectUniqueName5 = MoldSystem\\MoldSystem.csproj
+		SccProjectName5 = MoldSystem
+		SccLocalPath5 = MoldSystem
+	EndGlobalSection
+EndGlobal

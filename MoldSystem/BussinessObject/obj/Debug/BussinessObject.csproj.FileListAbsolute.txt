@@ -1,0 +1,5 @@
+D:\Working Freelance\Mold_System\Source Code\Mold System\MoldSystem\BussinessObject\bin\Debug\BussinessObject.dll
+D:\Working Freelance\Mold_System\Source Code\Mold System\MoldSystem\BussinessObject\bin\Debug\BussinessObject.pdb
+D:\Working Freelance\Mold_System\Source Code\Mold System\MoldSystem\BussinessObject\obj\Debug\BussinessObject.dll
+D:\Working Freelance\Mold_System\Source Code\Mold System\MoldSystem\BussinessObject\obj\Debug\BussinessObject.pdb
+D:\Working Freelance\Mold_System\Source Code\Mold System\MoldSystem\BussinessObject\obj\Debug\BussinessObject.csprojResolveAssemblyReference.cache
